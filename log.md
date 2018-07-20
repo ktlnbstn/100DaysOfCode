@@ -21,7 +21,7 @@ I so easily get caught up in wanting to research 'what I should be learning,' th
 
 **Thoughts**: Reprioritized my goals. Reaffirming my direction.
 
-**Link(s) to work**: [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java#)
+**Link to work**: [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java#)
 
 ### Day 1: July 19, 2018
 
