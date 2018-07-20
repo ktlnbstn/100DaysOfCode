@@ -25,11 +25,11 @@ I so easily get caught up in wanting to research 'what I should be learning,' th
 
 ### Day 1: July 19, 2018
 
-**Today's Progress**: ____
+**Today's Progress**: Cleaning up minor PuppyLove errors and features so I can prep it for hosting asap!
 
-**Thoughts:** _______
+**Thoughts:** Coding a project is sooo much more fun than studying algorithms.
 
-**Link to work:**
+**Link to work:** [PuppyLove](https://github.com/ktlnbstn/puppylove)
 
 ### Day 2: July 20, 2018
 
