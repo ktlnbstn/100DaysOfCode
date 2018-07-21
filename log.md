@@ -33,4 +33,6 @@ I so easily get caught up in wanting to research 'what I should be learning,' th
 
 ### Day 2: July 20, 2018
 
-**Today's Progress**: ____
+**Today's Progress**: Working on user input error validation. Testing, testing, testing...
+
+**Link to work:** [PuppyLove](https://github.com/ktlnbstn/puppylove)
