@@ -36,3 +36,12 @@ I so easily get caught up in wanting to research 'what I should be learning,' th
 **Today's Progress**: Working on user input error validation. Testing, testing, testing...
 
 **Link to work:** [PuppyLove](https://github.com/ktlnbstn/puppylove)
+
+### Day 3: July 21, 2018
+
+**Today's Progress**: Working on validating the input during the 'Edit Playdate' event. 
+
+**Thoughts**: Coding is having the knowledge to know how to put working code together, combined with the patience to debug 
+that code.
+
+**Link to work:** [PuppyLove](https://github.com/ktlnbstn/puppylove)
