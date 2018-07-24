@@ -45,3 +45,11 @@ I so easily get caught up in wanting to research 'what I should be learning,' th
 that code.
 
 **Link to work:** [PuppyLove](https://github.com/ktlnbstn/puppylove)
+
+### Day 4: July 23, 2018
+
+**Today's Progress**: Validation work complete! GoogleMaps functionality added! 
+
+**Thoughts**: Coding(debugging) gets so much easier with practice. I solved so many problems, very easily, on my own today. Felt great.
+
+**Link to work:** [PuppyLove](https://github.com/ktlnbstn/puppylove)
