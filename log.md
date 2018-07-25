@@ -61,3 +61,9 @@ that code.
 **Thoughts**: One moment I was lost in Jenkins CI, and the next I had a hosted web application that I shared with my friends and the world. Really brought home the idea that when you're lost/confused/sad from coding, just step away from your desk. Feels pretty good.
 
 **Link to work:** [PuppyLove](https://puppylove2.herokuapp.com/authenticate)
+
+### Day 6: July 25, 2018
+
+**Today's Progress**: PuppyLove is hosted, now working on updating. I hope I found a way to make the upstart time faster, Uptime Robot will ping the site every 8 minutes. Ideally Heroku servers keep PL alive so visitors have an easy time visiting it. I also went to a Cracking the Coding Interview Meetup to keep up my DS/A practice.
+
+**Link to work:** [PuppyLove](https://puppylove2.herokuapp.com/authenticate)
