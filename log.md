@@ -53,3 +53,11 @@ that code.
 **Thoughts**: Coding(debugging) gets so much easier with practice. I solved so many problems, very easily, on my own today. Felt great.
 
 **Link to work:** [PuppyLove](https://github.com/ktlnbstn/puppylove)
+
+### Day 5: July 24, 2018
+
+**Today's Progress**: PuppyLove is hosted! Register now! 
+
+**Thoughts**: One moment I was lost in Jenkins CI, and the next I had a hosted web application that I shared with my friends and the world. Really brought home the idea that when you're lost/confused/sad from coding, just step away from your desk. Feels pretty good.
+
+**Link to work:** [PuppyLove](https://puppylove2.herokuapp.com/authenticate)
