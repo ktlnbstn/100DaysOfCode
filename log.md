@@ -23,6 +23,9 @@ I so easily get caught up in wanting to research 'what I should be learning,' th
 
 **Link to work**: [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java#)
 
+![18july](https://user-images.githubusercontent.com/28552595/43288487-dd38b5d2-90dc-11e8-9d22-744319a813f9.jpeg)
+
+-------------------
 ### Day 1: July 19, 2018
 
 **Today's Progress**: Cleaning up minor PuppyLove errors and features so I can prep it for hosting asap!
@@ -31,12 +34,16 @@ I so easily get caught up in wanting to research 'what I should be learning,' th
 
 **Link to work:** [PuppyLove](https://github.com/ktlnbstn/puppylove)
 
+![19july](https://user-images.githubusercontent.com/28552595/43288509-ecdeeb64-90dc-11e8-8c2a-d460d1fb7250.jpeg)
+
+-------------------
 ### Day 2: July 20, 2018
 
 **Today's Progress**: Working on user input error validation. Testing, testing, testing...
 
 **Link to work:** [PuppyLove](https://github.com/ktlnbstn/puppylove)
 
+-------------------
 ### Day 3: July 21, 2018
 
 **Today's Progress**: Working on validating the input during the 'Edit Playdate' event. 
@@ -46,6 +53,7 @@ that code.
 
 **Link to work:** [PuppyLove](https://github.com/ktlnbstn/puppylove)
 
+-------------------
 ### Day 4: July 23, 2018
 
 **Today's Progress**: Validation work complete! GoogleMaps functionality added! 
@@ -54,6 +62,9 @@ that code.
 
 **Link to work:** [PuppyLove](https://github.com/ktlnbstn/puppylove)
 
+![23july](https://user-images.githubusercontent.com/28552595/43288523-fd9ac8c4-90dc-11e8-93f0-a0ffe700865a.jpeg)
+
+-------------------
 ### Day 5: July 24, 2018
 
 **Today's Progress**: PuppyLove is hosted! Register now! 
@@ -62,14 +73,22 @@ that code.
 
 **Link to work:** [PuppyLove](https://puppylove2.herokuapp.com/authenticate)
 
+![24july](https://user-images.githubusercontent.com/28552595/43288549-0fc50870-90dd-11e8-9917-34810f5f7d7d.jpeg)
+
+-------------------
 ### Day 6: July 25, 2018
 
 **Today's Progress**: PuppyLove is hosted, now working on updating. I hope I found a way to make the upstart time faster, Uptime Robot will ping the site every 8 minutes. Ideally Heroku servers keep PL alive so visitors have an easy time visiting it. I also went to a Cracking the Coding Interview Meetup to keep up my DS/A practice.
 
 **Link to work:** [PuppyLove](https://puppylove2.herokuapp.com/authenticate)
 
+![25july](https://user-images.githubusercontent.com/28552595/43288560-1a24945c-90dd-11e8-9885-4459590cab1f.jpeg)
+
+-------------------
 ### Day 7: July 26, 2018
 
-**Today's Progress**: Back to learning now that the project is live. Made a custom GoogleMap that displayed two maps able to zoom in with your mouse. Played with PApplet and design modifications.
+**Today's Progress**: Back to learning now that the project is live. Made a custom Map that displayed two maps able to zoom in with your mouse. Played with PApplet, Microsoft Maps, and design modifications.
 
 **Link to work:** [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java#)
+
+![26july](https://user-images.githubusercontent.com/28552595/43288583-3347e68c-90dd-11e8-8b53-fbdcad1412e1.jpeg)
