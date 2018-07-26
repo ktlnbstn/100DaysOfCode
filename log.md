@@ -67,3 +67,9 @@ that code.
 **Today's Progress**: PuppyLove is hosted, now working on updating. I hope I found a way to make the upstart time faster, Uptime Robot will ping the site every 8 minutes. Ideally Heroku servers keep PL alive so visitors have an easy time visiting it. I also went to a Cracking the Coding Interview Meetup to keep up my DS/A practice.
 
 **Link to work:** [PuppyLove](https://puppylove2.herokuapp.com/authenticate)
+
+### Day 7: July 26, 2018
+
+**Today's Progress**: Back to learning now that the project is live. Made a custom GoogleMap that displayed two maps able to zoom in with your mouse. Played with PApplet and design modifications.
+
+**Link to work:** [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java#)
