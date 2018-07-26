@@ -21,7 +21,7 @@ I so easily get caught up in wanting to research 'what I should be learning,' th
 
 **Thoughts**: Reprioritized my goals. Reaffirming my direction.
 
-**Link to work**: [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java#)
+**Link to work**: [Object Oriented Programming in Java: Data Structures Specialization](https://www.coursera.org/specializations/java-object-oriented)
 
 ![18july](https://user-images.githubusercontent.com/28552595/43288487-dd38b5d2-90dc-11e8-9d22-744319a813f9.jpeg)
 
@@ -89,6 +89,6 @@ that code.
 
 **Today's Progress**: Back to learning now that the project is live. Made a custom Map that displayed two maps able to zoom in with your mouse. Played with PApplet, Microsoft Maps, and design modifications.
 
-**Link to work:** [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java#)
+**Link to work:** [Object Oriented Programming in Java: Data Structures Specialization](https://www.coursera.org/specializations/java-object-oriented)
 
 ![26july](https://user-images.githubusercontent.com/28552595/43288583-3347e68c-90dd-11e8-8b53-fbdcad1412e1.jpeg)
