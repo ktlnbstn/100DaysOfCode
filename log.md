@@ -92,3 +92,10 @@ that code.
 **Link to work:** [Object Oriented Programming in Java: Data Structures Specialization](https://www.coursera.org/specializations/java-object-oriented)
 
 ![26july](https://user-images.githubusercontent.com/28552595/43288583-3347e68c-90dd-11e8-8b53-fbdcad1412e1.jpeg)
+
+-------------------
+### Day 8: July 28, 2018
+
+**Today's Progress**: Last two days have been a combo a apprenticeship applications. So less focus on coding sadly. But today I sat down for an hour of DS in Java. Helpful to keep thinking about code everyday even if it's not your main focus.
+
+**Link to work:** [Object Oriented Programming in Java: Data Structures Specialization](https://www.coursera.org/specializations/java-object-oriented)
