@@ -99,3 +99,10 @@ that code.
 **Today's Progress**: Last two days have been a combo a apprenticeship applications. So less focus on coding sadly. But today I sat down for an hour of DS in Java. Helpful to keep thinking about code everyday even if it's not your main focus.
 
 **Link to work:** [Object Oriented Programming in Java: Data Structures Specialization](https://www.coursera.org/specializations/java-object-oriented)
+
+-------------------
+### Day 9: July 31, 2018
+
+**Today's Progress**: More focus on DS. Another phone interview upcoming! 
+
+**Link to work:** [Object Oriented Programming in Java: Data Structures Specialization](https://www.coursera.org/specializations/java-object-oriented)
