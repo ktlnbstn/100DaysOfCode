@@ -103,6 +103,15 @@ that code.
 -------------------
 ### Day 9: July 31, 2018
 
-**Today's Progress**: More focus on DS. Another phone interview upcoming! 
+**Today's Progress**: More focus on DS. Phone interviews upcoming! 
 
 **Link to work:** [Object Oriented Programming in Java: Data Structures Specialization](https://www.coursera.org/specializations/java-object-oriented)
+
+-------------------
+### Day 10: August 2, 2018
+
+**Today's Progress**: Working with Processing and Unfolding Maps library to generate a map of earthquakes, categorized by size.
+
+**Link to work:** [Object Oriented Programming in Java: Data Structures Specialization](https://www.coursera.org/specializations/java-object-oriented)
+
+
