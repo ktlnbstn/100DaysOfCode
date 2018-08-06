@@ -114,4 +114,11 @@ that code.
 
 **Link to work:** [Object Oriented Programming in Java: Data Structures Specialization](https://www.coursera.org/specializations/java-object-oriented)
 
+-------------------
+### Day 11: August 5, 2018
 
+**Today's Progress**: Fisnished the map of earthquakes, categorized by size.
+
+**Link to work:** [Object Oriented Programming in Java: Data Structures Specialization](https://www.coursera.org/specializations/java-object-oriented)
+
+![5aug](https://user-images.githubusercontent.com/28552595/43698865-0454a122-9901-11e8-8a5e-9da57280f61c.jpeg)
