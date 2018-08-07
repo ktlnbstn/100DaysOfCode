@@ -122,3 +122,10 @@ that code.
 **Link to work:** [Object Oriented Programming in Java: Data Structures Specialization](https://www.coursera.org/specializations/java-object-oriented)
 
 ![5aug](https://user-images.githubusercontent.com/28552595/43698865-0454a122-9901-11e8-8a5e-9da57280f61c.jpeg)
+
+-------------------
+### Day 12: August 7, 2018
+
+**Today's Progress**: Working with to generate a more nuanced map of earthquakes, categorized by size, depth, and location.
+
+**Link to work:** [Object Oriented Programming in Java: Data Structures Specialization](https://www.coursera.org/specializations/java-object-oriented)
