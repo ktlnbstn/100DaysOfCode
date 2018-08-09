@@ -129,3 +129,5 @@ that code.
 **Today's Progress**: Working with to generate a more nuanced map of earthquakes, categorized by size, depth, and location.
 
 **Link to work:** [Object Oriented Programming in Java: Data Structures Specialization](https://www.coursera.org/specializations/java-object-oriented)
+
+-------------------
