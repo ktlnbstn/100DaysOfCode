@@ -131,3 +131,8 @@ that code.
 **Link to work:** [Object Oriented Programming in Java: Data Structures Specialization](https://www.coursera.org/specializations/java-object-oriented)
 
 -------------------
+### Day 13: August 10, 2018
+
+**Today's Progress**: Working on creating a basic React app for a prospective employer. I wanted to learn React, here's my quickstart version!
+
+-------------------
