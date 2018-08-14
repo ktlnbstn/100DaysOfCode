@@ -130,9 +130,18 @@ that code.
 
 **Link to work:** [Object Oriented Programming in Java: Data Structures Specialization](https://www.coursera.org/specializations/java-object-oriented)
 
+![12aug](https://user-images.githubusercontent.com/28552595/44061005-77429030-9f0b-11e8-96c4-2a31622b8364.jpeg)
+
 -------------------
 ### Day 13: August 10, 2018
 
 **Today's Progress**: Working on creating a basic React app for a prospective employer. I wanted to learn React, here's my quickstart version!
+
+-------------------
+### Day 14: August 13, 2018
+
+**Today's Progress**: Event-Driven programming! Half way through, implemented hover for additional info. Click to clear other markers away is upcoming. GUI work is not my favorite.
+
+![13aug](https://user-images.githubusercontent.com/28552595/44064929-b237e2ce-9f1c-11e8-8923-09b311386cca.jpeg)
 
 -------------------
