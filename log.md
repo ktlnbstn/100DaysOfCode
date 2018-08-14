@@ -142,6 +142,16 @@ that code.
 
 **Today's Progress**: Event-Driven programming! Half way through, implemented hover for additional info. Click to clear other markers away is upcoming. GUI work is not my favorite.
 
+**Link to work:** [Object Oriented Programming in Java: Data Structures Specialization](https://www.coursera.org/specializations/java-object-oriented)
+
 ![13aug](https://user-images.githubusercontent.com/28552595/44064929-b237e2ce-9f1c-11e8-8923-09b311386cca.jpeg)
 
+-------------------
+### Day 15: August 14, 2018
+
+**Today's Progress**: Finished up the Event-Driven project. Now if a certain earthquake or city is clicked on, other markers are hidden. When clicking on a city, when an earthquakes is nearby, it will still be displayed (as seen in pic below).
+
+**Link to work:** [Object Oriented Programming in Java: Data Structures Specialization](https://www.coursera.org/specializations/java-object-oriented)
+
+![14aug](https://user-images.githubusercontent.com/28552595/44124189-b3cedc72-9fe0-11e8-8e27-ee8282ecfa64.jpeg)
 -------------------
