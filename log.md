@@ -154,4 +154,14 @@ that code.
 **Link to work:** [Object Oriented Programming in Java: Data Structures Specialization](https://www.coursera.org/specializations/java-object-oriented)
 
 ![14aug](https://user-images.githubusercontent.com/28552595/44124189-b3cedc72-9fe0-11e8-8e27-ee8282ecfa64.jpeg)
+
 -------------------
+### Day 16: August 24, 2018
+
+**Today's Progress**: Finished up the OOP course. Next is Data Structures like I originally planned for. This last week was about implementing sorting and searching so the data displayed nicely. I added airports to my earthquake data so we could see the relationship between those two data points. You can also see the airport routes displayed and the airport name and locaiton displayed when hovering over the point.
+
+**Link to work:** [Object Oriented Programming in Java: Data Structures Specialization](https://www.coursera.org/specializations/java-object-oriented)
+
+![assignment](https://user-images.githubusercontent.com/28552595/44612699-413e6380-a7bf-11e8-944d-51976887ab9a.jpeg)
+-------------------
+
