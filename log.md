@@ -169,7 +169,6 @@ that code.
 **Today's Progress**: Creating a Hangman app for an interview. Very cool concept for newbs and strong coders alike. Lots of room to meet the basic specs or take them higher. No details, images, or links to work (yet) ovbiously.
 
 -------------------
-### Day 18: August 27, 2018
+### Day 17: August 25, 2018
 
 **Today's Progress**: SAME AS THE 25TH.
--------------------
