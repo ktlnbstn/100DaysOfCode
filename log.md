@@ -164,4 +164,12 @@ that code.
 
 ![assignment](https://user-images.githubusercontent.com/28552595/44612699-413e6380-a7bf-11e8-944d-51976887ab9a.jpeg)
 -------------------
+### Day 17: August 25, 2018
 
+**Today's Progress**: Creating a Hangman app for an interview. Very cool concept for newbs and strong coders alike. Lots of room to meet the basic specs or take them higher. No details, images, or links to work (yet) ovbiously.
+
+-------------------
+### Day 18: August 27, 2018
+
+**Today's Progress**: SAME AS THE 25TH.
+-------------------
