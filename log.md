@@ -189,3 +189,13 @@ that code.
 **Today's Progress**: SAME AS THE 29TH. Except I will grace you with a screenshot now that it's coming together. Spot the bug. Silly input tag. Accidently: `<input class="submit">` Needed: `<input class="input">` Ha!
 
 ![30aug](https://user-images.githubusercontent.com/28552595/44888049-06877000-ac84-11e8-929c-df208b39461e.jpeg)
+
+-------------------
+### Day 22: August 31, 2018
+
+**Today's Progress**: SAME AS THE 30TH. Except I finished! Ha! Smashed the last of the bugs and researched .jar processes until I just decided on a .zip from Github. The image below is of the score leaderboard. It can display leaders based on difficulty level.
+
+**Thoughts**: Nothing like a deadline to get you focused. I can also now look back and realize I wasted a lot of time getting caught up in Spring bugs. GeeWhiz do I wish I would've had the forsight and confidence in my abilities to NOT need to create a web apllication. 'MVP is best' is what I always say, but my definition of an MVP in this case was almost too big. I spent way too much time debugging non-hangman game related things.
+
+![31aug](https://user-images.githubusercontent.com/28552595/44938996-f11f4e00-ad36-11e8-82e3-9d8438e8a199.jpeg)
+
