@@ -186,6 +186,6 @@ that code.
 -------------------
 ### Day 21: August 30, 2018
 
-**Today's Progress**: SAME AS THE 28TH. Except I will grace you with a screenshot now that it's coming together. Spot the bug. Silly input tag. Accidently: <input class="submit">. Needed: <input class="input">. Ha!
+**Today's Progress**: SAME AS THE 29TH. Except I will grace you with a screenshot now that it's coming together. Spot the bug. Silly input tag. Accidently: `<input class="submit">` Needed: `<input class="input">` Ha!
 
 ![30aug](https://user-images.githubusercontent.com/28552595/44888049-06877000-ac84-11e8-929c-df208b39461e.jpeg)
