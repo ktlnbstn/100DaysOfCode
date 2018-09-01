@@ -199,3 +199,9 @@ that code.
 
 ![31aug](https://user-images.githubusercontent.com/28552595/44938996-f11f4e00-ad36-11e8-82e3-9d8438e8a199.jpeg)
 
+-------------------
+### Day 23: September 1, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: Now that the deadline is off my back.. can I fix that I/O error the REST API is handing me??
