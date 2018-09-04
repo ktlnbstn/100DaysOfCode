@@ -204,4 +204,10 @@ that code.
 
 **Today's Progress**: 
 
-**Thoughts**: Now that the deadline is off my back.. can I fix that I/O error the REST API is handing me??
+**Thoughts**: Now that the deadline is off my back.. can I fix that I/O error the REST API is handing me?? Done. Just takes a bit of time and patience. A deadline is not helpful for me, just means my head is frantic.
+
+-------------------
+### Day 24: September 3, 2018
+
+**Today's Progress**: Took time to look over my hangman code in perparation for the interview. This also involved some inevitable refactoring, so I'm counting it as a coding day. Next time, be more clear with variable names!
+
