@@ -202,8 +202,6 @@ that code.
 -------------------
 ### Day 23: September 1, 2018
 
-**Today's Progress**: 
-
 **Thoughts**: Now that the deadline is off my back.. can I fix that I/O error the REST API is handing me?? Done. Just takes a bit of time and patience. A deadline is not helpful for me, just means my head is frantic.
 
 -------------------
@@ -211,3 +209,7 @@ that code.
 
 **Today's Progress**: Took time to look over my hangman code in perparation for the interview. This also involved some inevitable refactoring, so I'm counting it as a coding day. Next time, be more clear with variable names!
 
+-------------------
+### Day 25: September 5, 2018
+
+**Thoughts**: Two hour long technical interview about my hangman application. And hours of studying it and creating improvements the night before. I'm counting it as a coding day!
