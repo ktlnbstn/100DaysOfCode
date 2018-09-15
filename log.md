@@ -213,3 +213,10 @@ that code.
 ### Day 25: September 5, 2018
 
 **Thoughts**: Two hour long technical interview about my hangman application. And hours of studying it and creating improvements the night before. I'm counting it as a coding day!
+
+-------------------
+### Day 26: September 14, 2018
+
+**Today's Progress**: Finished Week 1 of Course 2 and working on Course 3 out of 4 in the OOP in Java: Data Structures and Algorithm Specialization. _Course 2: Data Structures and Performance. Course 3: Advanced Data Structures in Java._
+
+**Link to work**: [Object Oriented Programming in Java: Data Structures Specialization](https://www.coursera.org/specializations/java-object-oriented)
