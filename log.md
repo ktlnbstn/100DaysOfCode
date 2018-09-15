@@ -221,3 +221,9 @@ that code.
 **Today's Progress**: Finished: Week 1 of Course 2 & working on: Week 1 of Course 3 out of 4 in the OOP in Java: Data Structures and Algorithm Specialization. These courses are from UC San Diego. _Course 2: Data Structures and Performance. Course 3: Advanced Data Structures in Java._
 
 **Link to work**: [Object Oriented Programming in Java: Data Structures Specialization](https://www.coursera.org/specializations/java-object-oriented)
+![dsp](https://user-images.githubusercontent.com/28552595/45581475-88b28f80-b853-11e8-8a68-4d5c81fe0e27.jpeg)
+![adsj](https://user-images.githubusercontent.com/28552595/45581474-88b28f80-b853-11e8-9e36-0d28ebdbc634.jpeg)
+
+
+
+
